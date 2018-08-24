@@ -1,7 +1,7 @@
 # ASP.NETCORE2-IdentityAuthorization
-Indentity Authorization in asp.Net Core 2.
+Identity Authorization in asp.Net Core 2.
 
-### To Create Autentication and Authorization in asp.Net Core 2 follow the steps:
+### Create Autentication and Authorization in asp.Net Core 2 follow the steps:
 
 1.  Create .Net Core 2 web application project with Individual User Account Authentication
 
